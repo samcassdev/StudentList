@@ -2,7 +2,7 @@
 
 This web application allows the user to create a list that appears after each list item is submitted into the form by saving the list items. In this case, the form is keeping track of attendance and is used to print the names of those who are present at the end of attendance-tracking.
 
-###Link to project: https://samstudentlist.netlify.com/
+### Link to project: https://samstudentlist.netlify.com/
 
 ![attendance](https://user-images.githubusercontent.com/47072462/53622220-2104bc80-3bc7-11e9-99bc-f793f1145e37.png)
 
